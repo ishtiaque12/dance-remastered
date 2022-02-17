@@ -1,0 +1,476 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p, ul{
+    padding: 0;
+    margin: 0;
+}
+.main_header{
+    
+background: #000;
+}
+header{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-weight: 100;
+    font-family: fantasy;
+    margin-left: -188px;
+    margin-right: 202px;
+}
+.height{
+    height: 100vh;
+}
+.header_content{
+
+margin-top: 196px;
+
+margin-left: 74px;
+}
+.header_content h1{
+
+color: #fff;
+
+font-size: 98px;
+
+font-weight: 300;
+
+font-family: fantasy;
+}
+.header_content p{
+
+color: #fff;
+
+font-size: 19px;
+}
+.button{
+
+}
+.btn-register{
+    
+background: #e8631c;
+    
+margin-top: 23px;
+    
+color: #fff;
+    
+font-weight: 600;
+    
+font-family: system-ui;
+}
+.dance{
+    height: 700px;
+    background-color: #e8631c;
+    background-image: url(../images/design.png);
+    background-position:  left;
+    background-repeat: no-repeat;
+    background-size: 54%;
+}
+.about_touch{
+
+}
+.about_touch h1{
+
+margin-top: 117px;
+
+color: #fff;
+
+font-size: 50px;
+
+font-weight: 100;
+
+font-family: fantasy;
+
+margin-left: 155px;
+
+margin-bottom: 10px;
+
+text-transform: uppercase;
+}
+.about_touch p{
+
+color: #fff;
+
+margin-top: 20px;
+
+font-size: 19px;
+
+margin-bottom: 29px;
+}
+.service_item{margin-left: 90px;margin-right: -86px;}
+.image{margin-left: 27px;}
+.image_description{
+
+background-color: #303030;
+
+padding-top: 10px;
+
+padding-bottom: 20px;
+
+margin-left: 27px;
+}
+.image_description h4{
+
+color: #fff;
+
+font-family: fantasy;
+
+text-align: center;
+}
+.image_description p{
+    
+color: #fff;
+    
+margin-left: 15px;
+}
+.pricing{
+    background-image: url(../images/design-2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.pricing h1{
+
+}
+.pricing p{
+
+color: #fff;
+
+margin-top: 15px;
+}
+.service_item_1{
+    /* border: 1px solid #d3d3d3; */
+    height: 100%;
+    text-align: center;
+    padding: 63px 21px;
+    background-color: #e8631c;
+}
+.icon_box{
+
+color: #fff;
+}
+.icon_box i{
+
+font-size: 46px;
+}
+.icon_description{
+
+}
+.icon_description h2{
+
+color: #fff;
+
+margin-top: 24px;
+}
+.icon_description p{
+
+}
+.button{
+
+}
+.btn-price{
+    
+color: #fff;
+    
+margin-top: 19px;
+    
+background: #303030;
+    
+padding: 17px;
+    
+font-family: fantasy;
+    
+font-size: 26px;
+}
+.amazing_dance{
+    background-image: url(../images/amazing-dance.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 726px;
+    width: 1349px;
+}
+.big_dancer{
+    max-width: 81%;
+}
+.header_content_1{
+
+margin-top: 300px;
+}
+.header_content_1 h1{
+    color: #fff;
+    font-size: 59px;
+    font-weight: 300;
+    font-family: fantasy;
+    margin-bottom: 15px;
+}
+.header_content_1 p{
+    color: #fff;
+    font-size: 19px;
+    margin-top: 4px;
+}
+.button{
+
+}
+.btn-register{
+    
+background: #303030;
+    
+margin-top: 40px;
+    
+color: #fff;
+    
+font-weight: 100;
+    
+font-family: fantasy;
+    
+padding: 5px 45px;
+}
+.Best_Dance{
+    background-image: url(../images/amazing-dance-2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 478px;
+    width: 1349px;
+}
+.header_content_2{
+
+margin-top: 121px;
+}
+    .header_content_2 h1{
+        color: #fff;
+        font-size: 59px;
+        font-weight: 300;
+        font-family: fantasy;
+        margin-bottom: 15px;
+    }
+    .header_content_2 p{
+        color: #fff;
+        font-size: 19px;
+        margin-top: 4px;
+    }
+    .button{
+    
+    }
+    .btn-register{
+        
+    background: #303030;
+        
+    margin-top: 40px;
+        
+    color: #fff;
+        
+    font-weight: 100;
+        
+    font-family: fantasy;
+        
+    padding: 5px 45px;
+    }
+.big_dancer_2{
+    max-width: 63%;
+}
+.statics{
+    background-color: #303030;
+    height: 700px;
+}
+.statics_description{
+
+margin-left: 107px;
+
+margin-top: 45px;
+
+margin: auto;
+
+margin-top: 80px;
+}
+.statics_description h1{
+
+color: #fff;
+
+font-size: 67px;
+
+margin-left: 52px;
+}
+.statics_description p{
+    
+color: #fff;
+    
+padding: 10px 31px;
+    
+font-size: 25px;
+    
+margin-left: 36px;
+}
+.sweater{
+    background-image: url(../images/sweater.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    position: relative;
+}
+.sweater_details{position: absolute;bottom: 31%;left: 38%;}
+.sweater_details p{
+
+color: #fff;
+
+font-size: 32px;
+
+margin-left: -143px;
+
+margin-top: 6px;
+}
+.sweater_details h3{
+
+margin-left: 54px;
+
+color: #fff;
+
+margin-top: 40px;
+
+font-family: fantasy;
+
+font-size: 42px;
+}
+.subscribe{
+    background-image: url(../images/dots.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.search{
+    
+position: relative;
+}
+.search input{
+
+border-color: lightgrey;
+
+border: none;
+
+border: 1px solid grey;
+
+width: 100%;
+
+padding: 10px;
+
+margin-left: 226px;
+
+font-size: 19px;
+}
+.search input:focus{
+
+}
+.search button{
+
+border: none;
+
+background: none;
+
+background: #303030;
+
+color: #fff;
+
+height: 50px;
+
+width: 129px;
+
+display: flex;
+
+position: absolute;
+
+justify-content: center;
+
+align-items: center;
+
+top: 0;
+
+left: 142%;
+
+font-family: fantasy;
+
+font-size: 19px;
+}
+footer{
+    padding: 40px 0;
+    background-color: #282531;
+}
+footer h3{
+    color: #fff;
+    font-size: 20px;
+}
+footer p{
+    color: #fff;
+}
+.icons{
+
+}
+.icons ul{
+
+display: flex;
+
+justify-content: left;
+
+align-items: center;
+
+margin-top: 22px;
+}
+.icons ul li{
+    
+color: #fff;
+    
+list-style: none;
+    
+margin-left: 10px;
+    
+border: 1px solid black;
+    
+height: 45px;
+    
+width: 45px;
+    
+justify-content: center;
+    
+align-items: center;
+    
+display: flex;
+    
+border-radius: 50%;
+    
+background-color: #fff;
+    
+color: black;
+    
+font-size: 30px;
+}
+footer h5{
+    color: #fff;
+    font-size: 20px;
+}
+footer ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer ul li{
+
+}
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.particles-js-canvas-el{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
